@@ -1,6 +1,6 @@
 {
   "name": "suggest-dimensions",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Suggest dimensions of DOM element based on its position on viewport to prevent the need of scrollbars",
   "main": "index.js",
   "scripts": {
