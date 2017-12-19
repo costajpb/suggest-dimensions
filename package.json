@@ -1,0 +1,24 @@
+{
+  "name": "suggest-dimensions",
+  "version": "0.1.0",
+  "description": "Suggest dimensions of DOM element based on its position on viewport to prevent the need of scrollbars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costajpb/suggest-dimensions.git"
+  },
+  "keywords": [
+    "DOM",
+    "dimensions",
+    "viewport"
+  ],
+  "author": "João Pedro Costa (costa.jpb@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/costajpb/suggest-dimensions/issues"
+  },
+  "homepage": "https://github.com/costajpb/suggest-dimensions#readme"
+}
